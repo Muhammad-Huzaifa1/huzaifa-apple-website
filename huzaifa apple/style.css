@@ -1,0 +1,74 @@
+.navbar{
+    background-color: #444445;
+    
+    
+    
+    
+}
+.navbar a{
+    color: white;
+    margin-left: 5px;
+    font-size: 15px;
+}
+
+.banner {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .banner2 {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+  .bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+    margin-left: 20px;
+    
+  }
+
+  .image img {
+    width: 100%;
+    height: 100%;
+    }
+    
+    .image {
+    position: relative;
+    }
+    
+    .image figcaption{
+    position: absolute;
+    top: 10%;
+    bottom: 20%;
+    left: 20%;
+    justify-content: center;
+    color: white;
+    }
+    .image figcaption p{
+      color: red;
+    }
+    .card3 figcaption{
+      color: black;
+    }
+  .card5 figcaption{
+    color: black;
+    margin-left: 20px;
+    margin-top: 30px;
+  }
+  
+
+  .bantext{
+    color: white !important;
+  }
+  .text-body{
+    text-decoration: none;
+  }
